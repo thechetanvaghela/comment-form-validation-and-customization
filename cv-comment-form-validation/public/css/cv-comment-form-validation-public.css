@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.cfv-form-error, .cfv-text-red{
+    color: #f60404;
+}
+
+.cfv-mt-20
+{
+    margin-top: 20px;
+}
+
+.cfv-text-center
+{
+    text-align: center;
+}
